@@ -6,7 +6,7 @@ const Logo = ({ size = 140 }) => (
       src="/images/fluxbit 4.png"
       width={size}
       height={size}
-      alt="Company Logo"
+      alt="Fluxbit Logo"
       style={{ objectFit: 'contain', width: size, height: size }}
     />
   </div>
